@@ -37,7 +37,6 @@ Key findings from the analysis:
 When adapted to native **Banglalink subscriber data**, this framework seamlessly ingests internal data sources:
 
 
-```
 
 ```
               +-----------------------------------+
@@ -48,7 +47,6 @@ When adapted to native **Banglalink subscriber data**, this framework seamlessly
  |                              |                              |
  v                              v                              v
 
-```
 
 [ CDR & Network Logs ]     [ MyBL App Analytics ]      [ Billing & Recharge Logs ]
 
